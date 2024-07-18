@@ -1,0 +1,18 @@
+/* BlogPostDetails.css */
+
+.small-card {
+  max-width: 500px; /* Set the desired maximum width for the card */
+  margin: 0 auto; /* Center the card */
+}
+
+.small-card-img {
+  height: 200px; /* Set a fixed height for the image */
+  object-fit: cover; /* Ensure the image covers the entire area */
+}
+
+.card-placeholder {
+  height: 200px;
+  background-color: #f8f9fa; /* Light gray background */
+  color: #6c757d; /* Muted text color */
+  font-size: 1.25rem;
+}
