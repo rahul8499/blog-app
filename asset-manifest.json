@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rahul8499/blog-app.git/static/css/main.d8cf147e.css",
+    "main.js": "/rahul8499/blog-app.git/static/js/main.0aaed418.js",
+    "static/js/453.a5b5c665.chunk.js": "/rahul8499/blog-app.git/static/js/453.a5b5c665.chunk.js",
+    "index.html": "/rahul8499/blog-app.git/index.html",
+    "main.d8cf147e.css.map": "/rahul8499/blog-app.git/static/css/main.d8cf147e.css.map",
+    "main.0aaed418.js.map": "/rahul8499/blog-app.git/static/js/main.0aaed418.js.map",
+    "453.a5b5c665.chunk.js.map": "/rahul8499/blog-app.git/static/js/453.a5b5c665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8cf147e.css",
+    "static/js/main.0aaed418.js"
+  ]
+}
